@@ -1,3 +1,4 @@
 # bipinbasnet-demo
-My first repository
-Creator - Bipin Jung Basnet
+My first repository.
+<br>
+Creator - Bipin Jung Basnet.
